@@ -25,7 +25,7 @@ public class AuthorityInterceptor implements MethodInterceptor{
 		}else{
 			return mapping.findForward("faillogin");
 		}
-
+/*zengjia zengjia */
 		
 	}
 
